@@ -1,0 +1,66 @@
+frame:2018-09-24 16:39:52: This frame contained the following objects:,person,person,bowl
+frame:2018-09-24 16:39:56: This frame contained the following objects:,person,person,chair,tie
+frame:2018-09-24 16:40:00: This frame contained the following objects:,person,person,tie,bowl
+frame:2018-09-24 16:40:05: This frame contained the following objects:,person,person,tie,tie,bowl
+frame:2018-09-24 16:40:10: This frame contained the following objects:,person,person,bowl
+frame:2018-09-24 16:40:15: This frame contained the following objects:,person,person,bowl
+frame:2018-09-24 16:40:23: This frame contained the following objects:,tie,person,bowl
+frame:2018-09-24 16:40:27: This frame contained the following objects:,tie,person,bowl
+frame:2018-09-24 16:40:31: This frame contained the following objects:,person,person,chair,bottle,tie,handbag
+frame:2018-09-24 16:40:36: This frame contained the following objects:,person,person,chair,tie,bowl
+frame:2018-09-24 16:40:40: This frame contained the following objects:,person,person,chair,tie,bowl
+frame:2018-09-24 16:40:44: This frame contained the following objects:,person,person,chair,tie,bowl,bowl,cell phone
+frame:2018-09-24 16:40:49: This frame contained the following objects:,person,person,chair,tie,bowl,cell phone
+frame:2018-09-24 16:40:53: This frame contained the following objects:,person,person,chair,tie,bowl
+frame:2018-09-24 16:40:57: This frame contained the following objects:,person,person,tie,chair,bowl
+frame:2018-09-24 16:41:02: This frame contained the following objects:,person,bottle,tie,bowl,person,person
+frame:2018-09-24 16:41:06: This frame contained the following objects:,person,bottle,tie,bowl,person
+frame:2018-09-24 16:41:10: This frame contained the following objects:,person,tie,bottle,bowl,person
+frame:2018-09-24 16:41:15: This frame contained the following objects:,person,tie,bottle,person,bowl
+frame:2018-09-24 16:41:19: This frame contained the following objects:,person,bottle,tie,person,bowl,person,cell phone
+frame:2018-09-28 17:51:24: This frame contained the following objects:,chair,person,bench
+frame:2018-09-28 17:53:23: This frame contained the following objects:,chair,person,bench
+frame:2018-09-28 18:05:14: This frame contained the following objects:,chair,person,bench
+frame:2018-09-28 18:06:26: This frame contained the following objects:,chair,person,bench
+frame:2018-09-28 18:09:29: This frame contained the following objects:,chair,person,bench
+frame:2018-10-01 17:45:10: This frame contained the following objects:,person,person,handbag,handbag,car,person,traffic light,cup
+frame:2018-10-01 17:53:37: This frame contained the following objects:,person,person,person
+frame:2018-10-01 17:55:50: This frame contained the following objects:,person,person,chair,truck,chair
+frame:2018-10-03 16:25:55: This frame contained the following objects:,person,person,chair,truck,chair
+frame:2018-10-08 12:40:20: This frame contained the following objects:,person,tie,book,book,book,book,book
+frame:2018-10-08 12:42:03: This frame contained the following objects:,person,tie,book,book,book,book,book
+frame:2018-10-08 12:42:36: This frame contained the following objects:,dog
+frame:2018-10-08 12:45:17: This frame contained the following objects:,person,tie,book,book,book,book,book
+frame:2018-10-08 12:46:08: This frame contained the following objects:,dog
+frame:2018-10-08 12:47:42: This frame contained the following objects:,person,book
+frame:2018-10-08 12:48:53: This frame contained the following objects:,person,person,tvmonitor,chair,chair,chair
+frame:2018-10-08 13:53:07: This frame contained the following objects:,person,person
+frame:2018-10-08 13:54:27: This frame contained the following objects:,person,person,person,person
+frame:2018-10-08 13:55:13: This frame contained the following objects:,person
+frame:2018-10-08 13:55:55: This frame contained the following objects:,person,car,car
+frame:2018-10-08 13:56:37: This frame contained the following objects:,person,dog,cell phone
+frame:2018-10-08 13:57:22: This frame contained the following objects:,person,person,person,person
+frame:2018-10-08 13:58:16: This frame contained the following objects:,person,teddy bear,chair,book,tvmonitor,person
+frame:2018-10-08 13:59:10: This frame contained the following objects:,person,tie,book,book,book,book,book
+frame:2018-10-08 13:59:42: This frame contained the following objects:,dog
+frame:2018-10-08 14:00:16: This frame contained the following objects:,person,book
+frame:2018-10-08 14:01:05: This frame contained the following objects:,person,person,tvmonitor,chair,chair,chair
+frame:2018-10-08 14:01:41: This frame contained the following objects:,person,dog
+frame:2018-10-08 14:02:20: This frame contained the following objects:,person,tie,chair
+frame:2018-10-08 14:03:25: This frame contained the following objects:,dog
+frame:2018-10-08 14:04:05: This frame contained the following objects:,person,laptop
+frame:2018-10-11 17:05:59: This frame contained the following objects:,person,tie,chair,chair,keyboard
+frame:2018-10-11 17:08:45: This frame contained the following objects:,person,person,person,person
+frame:2018-10-11 17:10:39: This frame contained the following objects:,person,book,person,cell phone,tvmonitor
+frame:2018-10-12 09:51:21: This frame contained the following objects:,person,book,tie,laptop,book,cup,book,book,chair,book
+frame:2018-10-26 15:34:58: This frame contained the following objects:,person,laptop,person,bottle,book,sports ball,cell phone
+frame:2018-10-26 15:57:53: This frame contained the following objects:,person,laptop,person,bottle,book
+frame:2018-10-26 16:29:56: This frame contained the following objects:,person,laptop,person,bottle,book
+frame:2018-10-26 16:51:30: This frame contained the following objects:,laptop,person,pottedplant,book,chair,book,chair
+frame:2018-10-26 17:27:36: This frame contained the following objects:,laptop,person,person,book,pottedplant,chair,chair,book,book
+frame:2018-11-06 10:57:12: This frame contained the following objects:,person,book,tie,laptop,book,book,chair,cup,book,chair
+frame:2018-11-06 10:58:54: This frame contained the following objects:,person,book,tie,laptop,book,book,chair,cup,book,chair
+frame:2018-11-06 11:04:55: This frame contained the following objects:,person,book,tie,laptop,book,book,cup,person,book,book
+frame:2018-12-13 10:19:15: This frame contained the following objects:,laptop,person,person,book,chair,book,book,pottedplant,chair
+frame:2018-12-13 10:21:35: This frame contained the following objects:,laptop,person,person,book,chair,book,book,pottedplant,chair
+frame:2018-12-13 10:26:38: This frame contained the following objects:,laptop,person,person,book,chair,book,book,pottedplant,chair

@@ -1,0 +1,11 @@
+Ensure High Contrast
+for Text Over Images
+
+Text that is not purely decorative or part
+of a logo should have a contrast ratio
+of at least 4.5:1 nngmup_com
+
+NN/g
+
+ 
+
